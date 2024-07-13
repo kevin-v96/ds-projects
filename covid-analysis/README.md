@@ -1,0 +1,1 @@
+This is a quick analysis of data I found on the number of cases, deaths, and some economic markers (HDI, GDP Per Capita) based on open source data.
